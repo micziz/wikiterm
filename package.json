@@ -11,8 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "input": "^1.0.1",
-    "inquirer": "^9.1.4",
     "prompts": "^2.4.2",
     "turndown": "^7.1.1",
     "wikipedia": "^2.0.0"
